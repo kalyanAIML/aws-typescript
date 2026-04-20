@@ -1,0 +1,2 @@
+# aws-typescript
+Typescript AWS
